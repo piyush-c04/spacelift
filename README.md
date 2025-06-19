@@ -1,4 +1,4 @@
-![Screenshot (198)](https://github.com/user-attachments/assets/455b39f4-d0cc-4667-bf8a-b2b3a8a2fca4)# 🚀 Infrastructure Automation using Terraform, Spacelift & Ansible
+# 🚀 Infrastructure Automation using Terraform, Spacelift & Ansible
 
 This repository demonstrates an end-to-end infrastructure automation pipeline using **Terraform**, **Spacelift**, and **Ansible**.
 It provisions EC2 instances on AWS and configures them using Ansible, all triggered and managed through Spacelift’s CI/CD capabilities.
