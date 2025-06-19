@@ -53,5 +53,6 @@ resource "aws_instance" "this" {
 
   tags = {
     Name = each.key
+    ForceTag  = "redeploy"
   }
 }
