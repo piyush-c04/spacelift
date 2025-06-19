@@ -111,7 +111,9 @@ TF_VAR_public_key=/mnt/workspace/key-for-spacelift.pub
 |---------------------------|----------------------------------------------|
 | `ansible_remote_user`     | `ubuntu`                                     |
 | `ansible_private_key`     | `/mnt/workspace/key-for-spacelift`           |
-| `ansible_inventory`       | `/mnt/workspace/inventory.ini`              |
+| `ansible_inventory`       | `/mnt/workspace/inventory.ini`               |
+|--------------------------------------------------------------------------|
+
 ![Screenshot (230)](https://github.com/user-attachments/assets/faa6dd96-7016-4665-8a36-c91f6596300f)
 
 ### 7. Testing & Validation
