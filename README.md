@@ -118,7 +118,9 @@ TF_VAR_public_key=/mnt/workspace/key-for-spacelift.pub
 
 - Triggered Ansible stack after Terraform changes.
 - Verified Ansible playbook executed and `htop` was installed on all provisioned EC2 instances.
-![Screenshot (234)](https://github.com/user-attachments/assets/0d188acf-5ccc-4a16-a152-f448501fabed)
+``` Bash
+ubuntu@ipaddress : htop
+```
 - SSH and check
 ![Screenshot (235)](https://github.com/user-attachments/assets/a53acb45-c7d0-4c2a-9c9a-973765d386ce)
 
